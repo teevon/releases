@@ -6,3 +6,4 @@ Public downloads for my apps, one folder per project. Source code lives in each 
 |---|---|
 | [gosales](gosales/) | GoSales point of sale |
 | [goschool](goschool/) | GoSchool: the tablet app and the owner's phone app |
+| [gohotel](gohotel/) | GoHotel: the staff phone app |
